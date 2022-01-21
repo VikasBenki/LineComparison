@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("welcome to linecomparision problems");
             Line_comparision Linecom = new Line_comparision();
             Linecom.length_line();
-            Linecom.function_check();
+            Linecom.Comparelines();
             Console.ReadLine();
         }
     }
